@@ -28,7 +28,7 @@ const Index = () => {
 
 		<p>At the moment, this website serves to be a central hub for everything concerning me: my socials, portfolio, and a collection of tidbits from around the web that I have written. Please, feel free to skip to one of the sections down below if you want to see what I've been working on.</p>
 
-		<p>If you are looking for it, here is a copy of <a href={resume}>my r&egrave;sum&egrave;</a>.</p>
+		<p>If you are looking for it, here is a copy of <a href={resume}>my r&eacute;sum&eacute;</a>.</p>
 
 		<hr />
 
