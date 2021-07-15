@@ -1,0 +1,26 @@
+{
+	"name": "asfaw",
+	"version": "1.0.0",
+	"private": true,
+	"description": "Official website of Asfaw: actor, writer, and computer scientist.",
+	"author": "Asfaw",
+	"keywords": [],
+	"scripts": {
+		"develop": "gatsby develop",
+		"start": "gatsby develop",
+		"build": "gatsby build",
+		"serve": "gatsby serve",
+		"clean": "gatsby clean"
+	},
+	"dependencies": {
+		"gatsby": "^3.9.1",
+		"react": "^17.0.1",
+		"react-dom": "^17.0.1"
+	},
+	"devDependencies": {
+		"autoprefixer": "^10.3.1",
+		"gatsby-plugin-postcss": "^4.9.0",
+		"postcss": "^8.3.5",
+		"tailwindcss": "^2.2.4"
+	}
+}

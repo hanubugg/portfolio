@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&display=swap");
+
+@keyframes waving {
+    from {
+        transform: rotate(5deg);
+    }
+
+    to {
+        transform: rotate(30deg);
+    }
+}
+
+* {
+    @apply transition duration-200 ease-in-out;
+    font-family: "Inter", serif;
+}
+
+p {
+    @apply my-34 leading-loose;
+}
+
+a {
+    @apply text-indigo-500 hover:text-indigo-800 hover:underline;
+}
+
+ul {
+    @apply ml-12;
+}
+
+li {
+    @apply leading-loose text-gray-600;
+    list-style-type: disc;
+}
+
+hr {
+    @apply text-gray-400 my-14;
+}
+
+.wave {
+    display: inline-block;
+    animation: waving 0.75s ease-in-out infinite alternate;
+    position: relative;
+    bottom: 2px;
+}
