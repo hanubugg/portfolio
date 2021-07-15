@@ -2,6 +2,10 @@ import * as React from "react"
 
 import Layout from "../components/Layout"
 
+import waving from "../files/waving-no-longer.pdf"
+import nightlight from "../files/nightlight.pdf"
+import resume from "../files/resume.pdf"
+
 const Index = () => {
   return (
     <main>
@@ -23,7 +27,7 @@ const Index = () => {
 
 		<p>At the moment, this website serves to be a central hub for everything concerning me: my socials, portfolio, and a collection of tidbits from around the web that I have written. Please, feel free to skip to one of the sections down below if you want to see what I've been working on.</p>
 
-		<p>If you are looking for it, here is a copy of <a href="/files/resume.pdf">my r&egrave;sum&egrave;</a>.</p>
+		<p>If you are looking for it, here is a copy of <a href={resume}>my r&egrave;sum&egrave;</a>.</p>
 
 		<hr />
 
@@ -89,12 +93,12 @@ const Index = () => {
 
 			<ul>
 				<li>
-					<a href="/files/nightlight.pdf">Nightlight</a>
+					<a href={nightlight}>Nightlight</a>
 					<span> &#8212; On their last afternoon of summer vacation, Matt and his sister spends the afternoon outdoors. A short story.</span>
 				</li>
 
 				<li>
-					<a href="/files/waving-no-longer.pdf">Waving No Longer</a>
+					<a href={waving}>Waving No Longer</a>
 					<span> &#8212; A 5-part haiku in response to the January 2021 insurrection. A poem.</span>
 				</li>
 			</ul>
