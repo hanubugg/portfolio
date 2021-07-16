@@ -15,7 +15,7 @@ const Index = () => {
       <Layout>
         <p className="mt-0">Selam, friend <span className="wave left-1">👋🏾</span></p>
 
-        <p>I am Brehanu Bugg, but please, call me Asfaw. It is pronounced /as&bullet;fa/. (My Ethiopian last name.)</p>
+        <p>I am Brehanu Bugg, but please, call me Asfaw. It is my Ethiopian last name and is pronounced /as&bull;fa/.</p>
 
 		<p>Welcome to my humble corner of the internet!</p>
 
