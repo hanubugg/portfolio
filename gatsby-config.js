@@ -1,8 +1,8 @@
 module.exports = {
     siteMetadata: {
         url: `https://brehanubugg.com`,
-        title: "Asfaw",
-        description: "Asfaw is an actor, writer, and computer scientist currently based in Charlottesville, VA. Take a look at his portfolio here."
+        title: "Brehanu Bugg",
+        description: "Brehanu Bugg is an actor, writer, and computer scientist currently based in Charlottesville, VA. Take a look at his portfolio here."
     },
     plugins: [
         "gatsby-plugin-postcss",

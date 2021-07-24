@@ -15,7 +15,7 @@ const Index = () => {
       <Layout>
         <p className="mt-0">Selam, friend <span className="wave left-1">👋🏾</span></p>
 
-        <p>I am Brehanu Bugg, but please, call me Asfaw. It is my Ethiopian last name and is pronounced /as&bull;fa/.</p>
+        <p>I am Brehanu (pronounced /Brie•ha•new) Bugg.</p>
 
 		<p>Welcome to my humble corner of the internet!</p>
 
@@ -109,9 +109,7 @@ const Index = () => {
 
 		<p>I hope through my projects, performances, and writings that you have gotten to know me better. If you'd like to collaborate, feel free to email me at <a href="mailto:buggbaj@gmail.com" target="_blank" rel="noreferrer">buggbaj (at) gmail (dot) com</a> and I will get back to you as soon as possible. You can find my socials down below.</p>
 
-		<p>Ciao. &#8212;Asfaw</p>
-
-		{/* <hr /> */}
+		<p>Ciao. &#8212;Brehanu</p>
 
 		<div className="flex justify-around mt-34 pt-34">
 			<a href="https://www.instagram.com/brehanuasfaw/" target="_blank" rel="noreferrer">Instagram</a>
