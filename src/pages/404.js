@@ -2,11 +2,12 @@ import * as React from "react"
 import { Link } from "gatsby"
 
 import Layout from "../components/Layout"
+import SearchEngineOptimization from "../components/SearchEngineOptimization"
 
 const NotFoundPage = () => {
   return (
 	<Layout>
-		<title>404 — Asfaw</title>
+		<SearchEngineOptimization title="404 — Brehanu Bugg" />
 
 		<p>Four-oh-Four: File not found.</p>
 

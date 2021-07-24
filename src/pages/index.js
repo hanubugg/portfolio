@@ -10,12 +10,12 @@ import resume from "../files/resume.pdf"
 const Index = () => {
   return (
     <main>
-      <SearchEngineOptimization title="Asfaw" />
+      <SearchEngineOptimization title="Brehanu Bugg" />
       
       <Layout>
         <p className="mt-0">Selam, friend <span className="wave left-1">👋🏾</span></p>
 
-        <p>I am Brehanu (pronounced /Brie•ha•new) Bugg.</p>
+        <p>My full legal name is Brehanu Bugg (pronounced /Bre•ha•new/). Some folks just call me by my Ethiopian last name, Asfaw (pronounced /As•faw/). I am indifferent to either!</p>
 
 		<p>Welcome to my humble corner of the internet!</p>
 
