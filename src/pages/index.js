@@ -15,7 +15,7 @@ const Index = () => {
       <Layout>
         <p className="mt-0">Selam, friend <span className="wave left-1">👋🏾</span></p>
 
-        <p>My full legal name is Brehanu Bugg (pronounced /Bre•ha•new/). Some folks just call me by my Ethiopian last name, Asfaw (pronounced /As•faw/). I am indifferent to either!</p>
+        <p>My full legal name is Brehanu Bugg (pronounced /Bre•ha•nu/). Some folks just call me Hanu (pronounced /Hah•nu/). I am indifferent to either!</p>
 
 		<p>Welcome to my humble corner of the internet!</p>
 
@@ -112,9 +112,9 @@ const Index = () => {
 		<p>Ciao. &#8212;Brehanu</p>
 
 		<div className="flex justify-around mt-34 pt-34">
-			<a href="https://www.instagram.com/brehanuasfaw/" target="_blank" rel="noreferrer">Instagram</a>
-			<a href="https://www.github.com/brehanuasfaw/" target="_blank" rel="noreferrer">GitHub</a>
-			<a href="https://www.goodreads.com/user/show/136196847-asfaw" target="_blank" rel="noreferrer">Goodreads</a>
+			<a href="https://www.instagram.com/hanuasfaw/" target="_blank" rel="noreferrer">Instagram</a>
+			<a href="https://www.github.com/hanuasfaw/" target="_blank" rel="noreferrer">GitHub</a>
+			<a href="https://app.thestorygraph.com/profile/hanuasfaw" target="_blank" rel="noreferrer">StoryGraph</a>
 			<a href="mailto:buggbaj@gmail.com" target="_blank" rel="noreferrer">Email</a>
 		</div>
       </Layout>
