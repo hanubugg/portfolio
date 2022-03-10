@@ -15,9 +15,7 @@ const Index = () => {
       <Layout>
         <p className="mt-0">Selam, friend <span className="wave left-1">👋🏾</span></p>
 
-        <p>My full legal name is Brehanu Bugg (pronounced /Bre•ha•nu/). Some folks just call me Hanu (pronounced /Hah•nu/). I am indifferent to either!</p>
-
-		<p>Welcome to my humble corner of the internet!</p>
+        <p>My name is Hanu. Welcome to my humble corner of the internet!</p>
 
         <p>I am a high school <span className="underline">actor</span>, <span className="underline">writer</span>, and <span className="underline">computer scientist</span> currently based in Charlottesville, Virginia. I have lived here since I was three years old.</p>
 
