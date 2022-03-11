@@ -1,28 +1,23 @@
 {
-	"name": "brehanubugg",
-	"version": "1.0.0",
-	"private": true,
-	"description": "Official website of Brehanu Bugg: actor, writer, and computer scientist.",
-	"author": "Brehanu Bugg",
-	"keywords": [],
-	"scripts": {
-		"develop": "gatsby develop -H 0.0.0.0",
-		"start": "gatsby develop",
-		"build": "gatsby build",
-		"serve": "gatsby serve",
-		"clean": "gatsby clean"
-	},
-	"dependencies": {
-		"gatsby": "^3.9.1",
-		"gatsby-plugin-react-helmet": "^4.9.0",
-		"react": "^17.0.1",
-		"react-dom": "^17.0.1",
-		"react-helmet": "^6.1.0"
-	},
-	"devDependencies": {
-		"autoprefixer": "^10.3.1",
-		"gatsby-plugin-postcss": "^4.9.0",
-		"postcss": "^8.3.5",
-		"tailwindcss": "^2.2.4"
-	}
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "The official website of Hanu Asfaw.",
+  "main": "index.js",
+  "repository": "https://github.com/hanuasfaw/portfolio.git",
+  "author": "Hanu Asfaw <hanu@hanuasfaw.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "gatsby": "^4.9.3",
+    "gatsby-plugin-react-helmet": "^5.9.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-helmet": "^6.1.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.2",
+    "gatsby-plugin-postcss": "^5.9.0",
+    "postcss": "^8.4.8",
+    "tailwindcss": "^3.0.23"
+  }
 }
