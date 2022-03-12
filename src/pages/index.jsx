@@ -109,7 +109,7 @@ const Index = () => {
 
 				<p>I hope through my projects, performances, and writings that you have gotten to know me better. If you'd like to collaborate, feel free to email me at <a href="mailto:hanu@hanuasfaw.com" target="_blank" rel="noreferrer">hanu (at) hanuasfaw (dot) com</a> and I will get back to you as soon as possible. You can find my socials down below.</p>
 
-				<p>Ciao. &#8212;Brehanu</p>
+				<p>Ciao. &#8212;Hanu</p>
 
 				<div className="flex justify-around mt-34 pt-34">
 					<a href="https://www.instagram.com/hanuasfaw/" target="_blank" rel="noreferrer">Instagram</a>
