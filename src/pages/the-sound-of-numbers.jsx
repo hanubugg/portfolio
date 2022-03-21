@@ -18,6 +18,8 @@ import sunbeam_sonata_audio from "../files/capstone/sunbeam-sonata.mp3";
 import twinkle_twinkle_little_star_sheet from "../files/capstone/twinkle-twinkle-little-star.pdf";
 import twinkle_twinkle_little_star_audio from "../files/capstone/twinkle-twinkle-little-star.mp3";
 
+import thesis from "../files/capstone/thesis.pdf";
+
 const TheSoundOfNumbers = () => {
 	return (
 		<main>
@@ -36,14 +38,14 @@ const TheSoundOfNumbers = () => {
 					documents.
 				</p>
 
-				<div className="bg-gray-100 py-4 md:py-5 px-4 md:px-9 rounded-lg">
+				<div className="bg-gray-100 py-4 md:py-5 px-4 md:px-9 rounded-lg mb-10">
 					<p className="uppercase tracking-widest my-0 text-sm text-gray-400">
 						Important Documents
 					</p>
 
 					<ol className="mt-2 ml-10 text-gray-600 leading-normal">
 						<li>
-							<a href="#">Thesis (pdf)</a>
+							<a href={thesis}>Thesis (pdf)</a>
 						</li>
 						<li>
 							<a href={ordinal_garden_sheet}>
@@ -52,8 +54,6 @@ const TheSoundOfNumbers = () => {
 						</li>
 					</ol>
 				</div>
-
-				<p className="font-bold">Audio Examples from Thesis</p>
 
 				<p className="m-1">
 					<a href={twinkle_twinkle_little_star_sheet}>
