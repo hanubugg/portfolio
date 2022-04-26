@@ -45,10 +45,10 @@ const TheSoundOfNumbers = () => {
 
 					<ol className="mt-2 ml-10 text-gray-600 leading-normal">
 						<li>
-							<a href={thesis}>Thesis (pdf)</a>
+							<a target="_blank" href={thesis}>Thesis (pdf)</a>
 						</li>
 						<li>
-							<a href={ordinal_garden_sheet}>
+							<a target="_blank" href={ordinal_garden_sheet}>
 								<i>Ordinal Garden</i> Sheet Music (pdf)
 							</a>
 						</li>
@@ -56,7 +56,7 @@ const TheSoundOfNumbers = () => {
 				</div>
 
 				<p className="m-1">
-					<a href={twinkle_twinkle_little_star_sheet}>
+					<a target="_blank" href={twinkle_twinkle_little_star_sheet}>
 						Twinkle, Twinkle Little Star (all variations)
 					</a>
 				</p>
@@ -68,21 +68,21 @@ const TheSoundOfNumbers = () => {
 				</audio>
 
 				<p className="m-1">
-					<a href={collatz_sheet}>Collatz Conjecture (n=41)</a>
+					<a target="_blank" href={collatz_sheet}>Collatz Conjecture (n=41)</a>
 				</p>
 				<audio controls className="mb-10">
 					<source src={collatz_audio} type="audio/mpeg" />
 				</audio>
 
 				<p className="m-1">
-					<a href={sunbeam_sonata_sheet}>Sunbeam Sonata</a>
+					<a target="_blank" href={sunbeam_sonata_sheet}>Sunbeam Sonata</a>
 				</p>
 				<audio controls className="mb-10">
 					<source src={sunbeam_sonata_audio} type="audio/mpeg" />
 				</audio>
 
 				<p className="m-1">
-					<a href={a_polynomic_jingle_sheet}>A Polynomic Jingle</a>
+					<a target="_blank" href={a_polynomic_jingle_sheet}>A Polynomic Jingle</a>
 				</p>
 				<audio controls className="mb-10">
 					<source
@@ -92,7 +92,7 @@ const TheSoundOfNumbers = () => {
 				</audio>
 
 				<p className="m-1">
-					<a href={ordinal_garden_sheet}>Ordinal Garden</a>
+					<a target="_blank" href={ordinal_garden_sheet}>Ordinal Garden</a>
 				</p>
 				<audio controls className="mb-10">
 					<source src={ordinal_garden_audio} type="audio/mpeg" />
