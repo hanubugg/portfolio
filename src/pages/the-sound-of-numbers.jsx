@@ -9,8 +9,8 @@ import collatz_audio from "../files/capstone/collatz-conjecture.mp3";
 import ordinal_garden_sheet from "../files/capstone/ordinal-garden.pdf";
 import ordinal_garden_audio from "../files/capstone/ordinal-garden.mp3";
 
-import polynomic_jingle_sheet from "../files/capstone/polynomic-jingle.pdf";
-import polynomic_jingle_audio from "../files/capstone/polynomic-jingle.mp3";
+import a_polynomic_jingle_sheet from "../files/capstone/a-polynomic-jingle.pdf";
+import a_polynomic_jingle_audio from "../files/capstone/a-polynomic-jingle.mp3";
 
 import sunbeam_sonata_sheet from "../files/capstone/sunbeam-sonata.pdf";
 import sunbeam_sonata_audio from "../files/capstone/sunbeam-sonata.mp3";
@@ -82,11 +82,11 @@ const TheSoundOfNumbers = () => {
 				</audio>
 
 				<p className="m-1">
-					<a href={polynomic_jingle_sheet}>Polynomic Jingle</a>
+					<a href={a_polynomic_jingle_sheet}>A Polynomic Jingle</a>
 				</p>
 				<audio controls className="mb-10">
 					<source
-						src={polynomic_jingle_audio}
+						src={a_polynomic_jingle_audio}
 						type="audio/mpeg"
 					/>
 				</audio>
