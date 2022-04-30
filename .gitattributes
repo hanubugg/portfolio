@@ -1,1 +1,2 @@
 src/files/harvard-university/chapel-sermon.mp4 filter=lfs diff=lfs merge=lfs -text
+static/chapel-sermon.mp4 filter=lfs diff=lfs merge=lfs -text
