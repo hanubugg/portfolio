@@ -3,6 +3,7 @@ import * as React from "react";
 import Layout from "../components/Layout";
 import SearchEngineOptimization from "../components/SearchEngineOptimization";
 
+import sermon from "../files/harvard-university/chapel-sermon.mp4";
 import waving from "../files/waving-no-longer.pdf";
 import nightlight from "../files/nightlight.pdf";
 import resume from "../files/resume.pdf";
@@ -58,6 +59,11 @@ const Index = () => {
 				<p>
 					If you are looking for it, here is a copy of{" "}
 					<a href={resume}>my r&eacute;sum&eacute;</a>.
+				</p>
+
+				<p>
+					You can a link to{" "}
+					<a href={sermon}>my chapel sermon here</a>.
 				</p>
 
 				<hr />
