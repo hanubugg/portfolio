@@ -28,21 +28,20 @@ const Index = () => {
 				</p>
 
 				<p>
-					I am a high school{" "}
-					<span className="underline">actor</span>,{" "}
-					<span className="underline">writer</span>, and{" "}
-					<span className="underline">computer scientist</span>{" "}
-					currently based in Charlottesville, Virginia. I have
-					lived here since I was three years old.
+					My hobbies include{" "}
+					<span className="underline">acting</span>,{" "}
+					<span className="underline">writing</span>, and{" "}
+					<span className="underline">solving computer science and mathematics problems</span>.
 				</p>
+
+				<p>I am currently enrolled at <a href="https://kenyon.edu" target="_blank">Kenyon College</a> where I plan to major in mathematics and English.</p>
 
 				<div className="bg-gray-100 py-4 md:py-5 px-4 md:px-9 rounded-lg">
 					<p className="uppercase tracking-widest my-0 text-sm text-gray-400">
 						Current Status
 					</p>
 					<p className="my-0 text-gray-600 leading-normal">
-						On spring break before finishing my last quarter
-						of high school.
+							Working as an IT/Marketing intern at <a href="https://acac.com" target="_blank">acac Fitness and Wellness</a> during my last summer before college.
 					</p>
 				</div>
 
@@ -138,6 +137,13 @@ const Index = () => {
 					</p>
 
 					<ul>
+							<li>
+								CLUE: High School Edition (Fall, 2021)
+									<span>
+										{" "}
+											&#8212; Assistant directed our Fall performance of CLUE: High School Edition. This was my first directing experience and I learned so much about putting up productions from behind-the-scenes and indirectly about casting choices and acting.
+									</span>
+							</li>
 						<li>
 							Curious Incident of the Dog in the Night-Time
 							(Spring, 2021)
