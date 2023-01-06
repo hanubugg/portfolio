@@ -205,16 +205,16 @@ const Index = () => {
 										</p>
 
 										<ul>
-												<li>
-														<a href={nightlight}>Nightlight</a>
-														<span>
-																{" "}
-																&#8212; On their last afternoon of
-																summer vacation, Matt and his sister
-																spends the afternoon outdoors. A short
-																story.
-														</span>
-												</li>
+// 												<li>
+// 														<a href={nightlight}>Nightlight</a>
+// 														<span>
+// 																{" "}
+// 																&#8212; On their last afternoon of
+// 																summer vacation, Matt and his sister
+// 																spends the afternoon outdoors. A short
+// 																story.
+// 														</span>
+// 												</li>
 
 												<li>
 														<a href={waving}>Waving No Longer</a>
